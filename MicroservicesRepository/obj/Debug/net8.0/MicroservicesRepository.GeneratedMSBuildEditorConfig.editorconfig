@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MicroservicesRepository
-build_property.ProjectDir = C:\Users\labsfiap\source\repos\MicroservicesEnergia\MicroservicesRepository\
+build_property.ProjectDir = C:\Users\labsfiap\Downloads\b\GS-MICRO-2\MicroservicesRepository\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
