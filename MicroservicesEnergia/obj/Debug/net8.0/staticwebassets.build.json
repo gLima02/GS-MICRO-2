@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "pjHLpuj1t+e1X0XUiNZfGa7hH6a/6pZ2uPj6RM6auPs=",
+  "Hash": "jp0+j6qySmuDKa9CXbTU7WQ458hfl/QqJ6wxThqy2LI=",
   "Source": "MicroservicesEnergia",
   "BasePath": "_content/MicroservicesEnergia",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

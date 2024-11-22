@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "MicroservicesEnergia.Controllers.ConsumoController",
+    "Method": "GetConsumo",
+    "RelativePath": "api/Consumo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MicroservicesEnergia.Controllers.ConsumoController",
+    "Method": "PostConsumo",
+    "RelativePath": "api/Consumo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "consumo",
+        "Type": "MicroservicesDomain.Consumo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MicroservicesEnergia.Controllers.HealthController",
+    "Method": "GetHealthStatus",
+    "RelativePath": "api/Health",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
