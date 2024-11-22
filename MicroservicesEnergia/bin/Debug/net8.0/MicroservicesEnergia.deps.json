@@ -292,7 +292,10 @@
       },
       "MicroservicesDomain/1.0.0": {
         "runtime": {
-          "MicroservicesDomain.dll": {}
+          "MicroservicesDomain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "MicroservicesRepository/1.0.0": {
@@ -306,7 +309,10 @@
           "xunit": "2.9.2"
         },
         "runtime": {
-          "MicroservicesRepository.dll": {}
+          "MicroservicesRepository.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

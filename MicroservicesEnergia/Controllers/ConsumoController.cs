@@ -37,11 +37,25 @@ namespace MicroservicesEnergia.Controllers
         [HttpPost]
         public async Task<IActionResult> PostConsumo([FromBody] Consumo consumo)
         {
-            await _repository.SalvarConsumo(consumo);
+            try
+            {
+                // Log para depurar o consumo recebido
+                Console.WriteLine($"Recebido: {JsonConvert.SerializeObject(consumo)}");
 
+                if (!ModelState.IsValid)
+                {
+                    return BadRequest(ModelState);
+                }
 
-            return Ok(new { mensagem = "Criado com sucesso!" });
+                await _repository.SalvarConsumo(consumo);
 
+                return Ok(new { mensagem = "Criado com sucesso!" });
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Erro: {ex.Message}");
+                return StatusCode(500, new { mensagem = "Erro interno do servidor." });
+            }
         }
     }
 }

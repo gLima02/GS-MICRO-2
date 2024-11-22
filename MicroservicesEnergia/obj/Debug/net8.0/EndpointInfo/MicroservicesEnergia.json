@@ -1,0 +1,115 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "MicroservicesEnergia",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Consumo": {
+      "get": {
+        "tags": [
+          "Consumo"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Consumo"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Consumo"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Consumo"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Consumo"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Health": {
+      "get": {
+        "tags": [
+          "Health"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Consumo": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "data": {
+            "type": "string",
+            "nullable": true
+          },
+          "consumoKwh": {
+            "type": "number",
+            "format": "double"
+          },
+          "custo": {
+            "type": "number",
+            "format": "double"
+          },
+          "fonteEnergia": {
+            "type": "string",
+            "nullable": true
+          },
+          "emissaoCO2": {
+            "type": "number",
+            "format": "double"
+          },
+          "localizacao": {
+            "type": "string",
+            "nullable": true
+          },
+          "dispositivo": {
+            "type": "string",
+            "nullable": true
+          },
+          "percentualEnergiaRenovavel": {
+            "type": "number",
+            "format": "double"
+          },
+          "picoConsumo": {
+            "type": "boolean"
+          },
+          "usuarioResponsavel": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

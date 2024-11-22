@@ -22,3 +22,15 @@ C:\Users\labsfiap\Downloads\b\GS-MICRO-2\MicroservicesDomain\obj\Debug\net8.0\Mi
 C:\Users\labsfiap\Downloads\b\GS-MICRO-2\MicroservicesDomain\obj\Debug\net8.0\refint\MicroservicesDomain.dll
 C:\Users\labsfiap\Downloads\b\GS-MICRO-2\MicroservicesDomain\obj\Debug\net8.0\MicroservicesDomain.pdb
 C:\Users\labsfiap\Downloads\b\GS-MICRO-2\MicroservicesDomain\obj\Debug\net8.0\ref\MicroservicesDomain.dll
+D:\GS-MICRO-2\MicroservicesDomain\bin\Debug\net8.0\MicroservicesDomain.deps.json
+D:\GS-MICRO-2\MicroservicesDomain\bin\Debug\net8.0\MicroservicesDomain.dll
+D:\GS-MICRO-2\MicroservicesDomain\bin\Debug\net8.0\MicroservicesDomain.pdb
+D:\GS-MICRO-2\MicroservicesDomain\obj\Debug\net8.0\MicroservicesDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GS-MICRO-2\MicroservicesDomain\obj\Debug\net8.0\MicroservicesDomain.AssemblyInfoInputs.cache
+D:\GS-MICRO-2\MicroservicesDomain\obj\Debug\net8.0\MicroservicesDomain.AssemblyInfo.cs
+D:\GS-MICRO-2\MicroservicesDomain\obj\Debug\net8.0\MicroservicesDomain.csproj.CoreCompileInputs.cache
+D:\GS-MICRO-2\MicroservicesDomain\obj\Debug\net8.0\MicroservicesDomain.sourcelink.json
+D:\GS-MICRO-2\MicroservicesDomain\obj\Debug\net8.0\MicroservicesDomain.dll
+D:\GS-MICRO-2\MicroservicesDomain\obj\Debug\net8.0\refint\MicroservicesDomain.dll
+D:\GS-MICRO-2\MicroservicesDomain\obj\Debug\net8.0\MicroservicesDomain.pdb
+D:\GS-MICRO-2\MicroservicesDomain\obj\Debug\net8.0\ref\MicroservicesDomain.dll
