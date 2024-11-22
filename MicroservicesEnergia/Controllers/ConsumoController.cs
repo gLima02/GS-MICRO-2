@@ -14,22 +14,13 @@ namespace MicroservicesEnergia.Controllers
 
         public ConsumoController(IConsumoRepository repository)
         {
-            _repository = repository;
+            _repository = repository; 
         }
 
         [HttpGet]
         public async Task<IActionResult> GetConsumo()
         {
-            /*string key = "getconsumo";
-            redis = ConnectionMultiplexer.Connect("localhost:6379");
-            IDatabase db = redis.GetDatabase();
-            await db.KeyExpireAsync(key, TimeSpan.FromSeconds(10));
-            string user = await db.StringGetAsync(key);
 
-            if (!string.IsNullOrEmpty(user))
-            {
-                return Ok(user);
-            }*/
 
             var consumos = await _repository.ListarConsumos();
 
@@ -39,7 +30,6 @@ namespace MicroservicesEnergia.Controllers
             }
 
             string consumosJson = JsonConvert.SerializeObject(consumos);
-            // await db.StringSetAsync(key, consumosJson);
 
             return Ok(consumos);
         }
@@ -49,11 +39,6 @@ namespace MicroservicesEnergia.Controllers
         {
             await _repository.SalvarConsumo(consumo);
 
-            //apaga o cache
-            /*string key = "getconsumo";
-            redis = ConnectionMultiplexer.Connect("localhost:6379");
-            IDatabase db = redis.GetDatabase();
-            await db.KeyDeleteAsync(key);*/
 
             return Ok(new { mensagem = "Criado com sucesso!" });
 

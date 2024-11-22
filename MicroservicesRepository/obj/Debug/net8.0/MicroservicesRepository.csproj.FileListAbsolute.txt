@@ -30,3 +30,5 @@ C:\Users\labsfiap\Downloads\b\GS-MICRO-2\MicroservicesRepository\obj\Debug\net8.
 C:\Users\labsfiap\Downloads\b\GS-MICRO-2\MicroservicesRepository\obj\Debug\net8.0\refint\MicroservicesRepository.dll
 C:\Users\labsfiap\Downloads\b\GS-MICRO-2\MicroservicesRepository\obj\Debug\net8.0\MicroservicesRepository.pdb
 C:\Users\labsfiap\Downloads\b\GS-MICRO-2\MicroservicesRepository\obj\Debug\net8.0\ref\MicroservicesRepository.dll
+C:\Users\labsfiap\Downloads\b\GS-MICRO-2\MicroservicesRepository\bin\Debug\net8.0\MicroservicesRepository.runtimeconfig.json
+C:\Users\labsfiap\Downloads\b\GS-MICRO-2\MicroservicesRepository\obj\Debug\net8.0\MicroservicesRepository.genruntimeconfig.cache

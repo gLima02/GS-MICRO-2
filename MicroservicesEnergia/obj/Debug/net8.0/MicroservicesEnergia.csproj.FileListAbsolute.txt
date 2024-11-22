@@ -98,3 +98,9 @@ C:\Users\labsfiap\Downloads\b\GS-MICRO-2\MicroservicesEnergia\obj\Debug\net8.0\r
 C:\Users\labsfiap\Downloads\b\GS-MICRO-2\MicroservicesEnergia\obj\Debug\net8.0\MicroservicesEnergia.pdb
 C:\Users\labsfiap\Downloads\b\GS-MICRO-2\MicroservicesEnergia\obj\Debug\net8.0\MicroservicesEnergia.genruntimeconfig.cache
 C:\Users\labsfiap\Downloads\b\GS-MICRO-2\MicroservicesEnergia\obj\Debug\net8.0\ref\MicroservicesEnergia.dll
+C:\Users\labsfiap\Downloads\b\GS-MICRO-2\MicroservicesEnergia\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\labsfiap\Downloads\b\GS-MICRO-2\MicroservicesEnergia\bin\Debug\net8.0\Moq.dll
+C:\Users\labsfiap\Downloads\b\GS-MICRO-2\MicroservicesEnergia\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\labsfiap\Downloads\b\GS-MICRO-2\MicroservicesEnergia\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\labsfiap\Downloads\b\GS-MICRO-2\MicroservicesEnergia\bin\Debug\net8.0\xunit.core.dll
+C:\Users\labsfiap\Downloads\b\GS-MICRO-2\MicroservicesEnergia\bin\Debug\net8.0\xunit.execution.dotnet.dll
