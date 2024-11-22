@@ -1,4 +1,5 @@
-- Guilherme Lima Oliveira RM93401
+# Global Solution - Microservices</br>
+## Guilherme Lima Oliveira - RM93401
 
 Modelo de Dados:   API Consumo 
 
@@ -21,12 +22,13 @@ usuarioResponsavel 	|  string |	Nome ou identificador do usuário responsável.
   
   - Rotas 
 1.	[GET] Obter Todos os Registros 
-Endpoint: GET /api/consumo 
-Descrição: 
-Retorna uma lista com todos os registros de consumo. 
-2.	[POST] Inserir Registro 
-Endpoint: POST /api/consumo 
-Descrição: 
+Endpoint:</br>
+GET /api/consumo</br> 
+Descrição: </br>
+Retorna uma lista com todos os registros de consumo.</br> 
+2.	[POST] Inserir Registro</br> 
+Endpoint: POST /api/consumo </br>
+Descrição: </br>
 Cria um novo registro de consumo. 
 
 - Evidências
@@ -34,3 +36,9 @@ Cria um novo registro de consumo.
 ![image](https://github.com/user-attachments/assets/159531cf-1813-4f76-a0a4-3280c937d958)
 
 ![image](https://github.com/user-attachments/assets/891a5ebe-51e1-41be-ab6e-1781c0532d99)
+
+STATUS DE FUNCIONAMENTO 
+
+ROTA: /api/Health
+
+![image](https://github.com/user-attachments/assets/e1386d2d-521f-4c10-b34e-b6bef83ea264)
