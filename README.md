@@ -31,11 +31,15 @@ Endpoint: POST /api/consumo </br>
 Descrição: </br>
 Cria um novo registro de consumo. 
 
-- Evidências
+### Evidências
 
-![image](https://github.com/user-attachments/assets/159531cf-1813-4f76-a0a4-3280c937d958)
+POST CONSUMO
 
-![image](https://github.com/user-attachments/assets/891a5ebe-51e1-41be-ab6e-1781c0532d99)
+![image](https://github.com/user-attachments/assets/196b3c20-7e4c-48fe-8af3-c6e642d8fe39)
+
+GET CONSUMO
+
+![image](https://github.com/user-attachments/assets/0676cc17-789a-4b11-975f-80f86dcb3496)
 
 STATUS DE FUNCIONAMENTO 
 
