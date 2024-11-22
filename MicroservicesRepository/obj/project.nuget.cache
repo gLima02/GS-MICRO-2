@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iIQZHy2n++o=",
+  "dgSpecHash": "F+kj+oRGUf8=",
   "success": true,
-  "projectFilePath": "D:\\a\\GS-MICRO-2\\MicroservicesRepository\\MicroservicesRepository.csproj",
+  "projectFilePath": "D:\\GS-MICRO-2\\MicroservicesRepository\\MicroservicesRepository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",

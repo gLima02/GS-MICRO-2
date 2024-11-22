@@ -1,34 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\a\\GS-MICRO-2\\",
+  "WorkspaceRootPath": "D:\\GS-MICRO-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80213D10-DAF0-4202-9563-E6C409187489}|MicroservicesEnergia\\MicroservicesEnergia.csproj|d:\\a\\gs-micro-2\\microservicesenergia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80213D10-DAF0-4202-9563-E6C409187489}|MicroservicesEnergia\\MicroservicesEnergia.csproj|d:\\gs-micro-2\\microservicesenergia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80213D10-DAF0-4202-9563-E6C409187489}|MicroservicesEnergia\\MicroservicesEnergia.csproj|solutionrelative:microservicesenergia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80213D10-DAF0-4202-9563-E6C409187489}|MicroservicesEnergia\\MicroservicesEnergia.csproj|d:\\a\\gs-micro-2\\microservicesenergia\\controllers\\consumocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80213D10-DAF0-4202-9563-E6C409187489}|MicroservicesEnergia\\MicroservicesEnergia.csproj|solutionrelative:microservicesenergia\\controllers\\consumocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80213D10-DAF0-4202-9563-E6C409187489}|MicroservicesEnergia\\MicroservicesEnergia.csproj|d:\\a\\gs-micro-2\\microservicesenergia\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80213D10-DAF0-4202-9563-E6C409187489}|MicroservicesEnergia\\MicroservicesEnergia.csproj|solutionrelative:microservicesenergia\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37E03A59-FD66-454D-B5E6-BAD409C95183}|MicroservicesRepository\\MicroservicesRepository.csproj|d:\\a\\gs-micro-2\\microservicesrepository\\consumorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37E03A59-FD66-454D-B5E6-BAD409C95183}|MicroservicesRepository\\MicroservicesRepository.csproj|solutionrelative:microservicesrepository\\consumorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37E03A59-FD66-454D-B5E6-BAD409C95183}|MicroservicesRepository\\MicroservicesRepository.csproj|d:\\a\\gs-micro-2\\microservicesrepository\\consumorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37E03A59-FD66-454D-B5E6-BAD409C95183}|MicroservicesRepository\\MicroservicesRepository.csproj|solutionrelative:microservicesrepository\\consumorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7D9F1ED-D833-49FC-BC46-71444E35B87A}|MicroservicesDomain\\MicroservicesDomain.csproj|d:\\a\\gs-micro-2\\microservicesdomain\\consumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7D9F1ED-D833-49FC-BC46-71444E35B87A}|MicroservicesDomain\\MicroservicesDomain.csproj|solutionrelative:microservicesdomain\\consumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80213D10-DAF0-4202-9563-E6C409187489}|MicroservicesEnergia\\MicroservicesEnergia.csproj|d:\\a\\gs-micro-2\\microservicesenergia\\microservicesenergia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{80213D10-DAF0-4202-9563-E6C409187489}|MicroservicesEnergia\\MicroservicesEnergia.csproj|solutionrelative:microservicesenergia\\microservicesenergia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,89 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HealthController.cs",
-              "DocumentMoniker": "D:\\a\\GS-MICRO-2\\MicroservicesEnergia\\Controllers\\HealthController.cs",
-              "RelativeDocumentMoniker": "MicroservicesEnergia\\Controllers\\HealthController.cs",
-              "ToolTip": "D:\\a\\GS-MICRO-2\\MicroservicesEnergia\\Controllers\\HealthController.cs",
-              "RelativeToolTip": "MicroservicesEnergia\\Controllers\\HealthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T22:50:40.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConsumoRepositoryTests.cs",
-              "DocumentMoniker": "D:\\a\\GS-MICRO-2\\MicroservicesRepository\\ConsumoRepositoryTests.cs",
-              "RelativeDocumentMoniker": "MicroservicesRepository\\ConsumoRepositoryTests.cs",
-              "ToolTip": "D:\\a\\GS-MICRO-2\\MicroservicesRepository\\ConsumoRepositoryTests.cs",
-              "RelativeToolTip": "MicroservicesRepository\\ConsumoRepositoryTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T01:19:23.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Consumo.cs",
-              "DocumentMoniker": "D:\\a\\GS-MICRO-2\\MicroservicesDomain\\Consumo.cs",
-              "RelativeDocumentMoniker": "MicroservicesDomain\\Consumo.cs",
-              "ToolTip": "D:\\a\\GS-MICRO-2\\MicroservicesDomain\\Consumo.cs",
-              "RelativeToolTip": "MicroservicesDomain\\Consumo.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAIwAMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T01:13:31.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConsumoController.cs",
-              "DocumentMoniker": "D:\\a\\GS-MICRO-2\\MicroservicesEnergia\\Controllers\\ConsumoController.cs",
-              "RelativeDocumentMoniker": "MicroservicesEnergia\\Controllers\\ConsumoController.cs",
-              "ToolTip": "D:\\a\\GS-MICRO-2\\MicroservicesEnergia\\Controllers\\ConsumoController.cs",
-              "RelativeToolTip": "MicroservicesEnergia\\Controllers\\ConsumoController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAswCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T01:13:28.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MicroservicesEnergia.csproj",
-              "DocumentMoniker": "D:\\a\\GS-MICRO-2\\MicroservicesEnergia\\MicroservicesEnergia.csproj",
-              "RelativeDocumentMoniker": "MicroservicesEnergia\\MicroservicesEnergia.csproj",
-              "ToolTip": "D:\\a\\GS-MICRO-2\\MicroservicesEnergia\\MicroservicesEnergia.csproj",
-              "RelativeToolTip": "MicroservicesEnergia\\MicroservicesEnergia.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-22T01:12:30.835Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ConsumoRepository.cs",
-              "DocumentMoniker": "D:\\a\\GS-MICRO-2\\MicroservicesRepository\\ConsumoRepository.cs",
-              "RelativeDocumentMoniker": "MicroservicesRepository\\ConsumoRepository.cs",
-              "ToolTip": "D:\\a\\GS-MICRO-2\\MicroservicesRepository\\ConsumoRepository.cs",
-              "RelativeToolTip": "MicroservicesRepository\\ConsumoRepository.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAIAwwAoAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T00:32:25.757Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\a\\GS-MICRO-2\\MicroservicesEnergia\\Program.cs",
+              "DocumentMoniker": "D:\\GS-MICRO-2\\MicroservicesEnergia\\Program.cs",
               "RelativeDocumentMoniker": "MicroservicesEnergia\\Program.cs",
-              "ToolTip": "D:\\a\\GS-MICRO-2\\MicroservicesEnergia\\Program.cs",
+              "ToolTip": "D:\\GS-MICRO-2\\MicroservicesEnergia\\Program.cs",
               "RelativeToolTip": "MicroservicesEnergia\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T00:26:12.083Z",
               "EditorCaption": ""

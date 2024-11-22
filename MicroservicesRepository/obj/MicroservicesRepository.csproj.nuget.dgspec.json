@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\a\\GS-MICRO-2\\MicroservicesRepository\\MicroservicesRepository.csproj": {}
+    "D:\\GS-MICRO-2\\MicroservicesRepository\\MicroservicesRepository.csproj": {}
   },
   "projects": {
-    "D:\\a\\GS-MICRO-2\\MicroservicesDomain\\MicroservicesDomain.csproj": {
+    "D:\\GS-MICRO-2\\MicroservicesDomain\\MicroservicesDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\a\\GS-MICRO-2\\MicroservicesDomain\\MicroservicesDomain.csproj",
+        "projectUniqueName": "D:\\GS-MICRO-2\\MicroservicesDomain\\MicroservicesDomain.csproj",
         "projectName": "MicroservicesDomain",
-        "projectPath": "D:\\a\\GS-MICRO-2\\MicroservicesDomain\\MicroservicesDomain.csproj",
+        "projectPath": "D:\\GS-MICRO-2\\MicroservicesDomain\\MicroservicesDomain.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\a\\GS-MICRO-2\\MicroservicesDomain\\obj\\",
+        "outputPath": "D:\\GS-MICRO-2\\MicroservicesDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\a\\GS-MICRO-2\\MicroservicesRepository\\MicroservicesRepository.csproj": {
+    "D:\\GS-MICRO-2\\MicroservicesRepository\\MicroservicesRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\a\\GS-MICRO-2\\MicroservicesRepository\\MicroservicesRepository.csproj",
+        "projectUniqueName": "D:\\GS-MICRO-2\\MicroservicesRepository\\MicroservicesRepository.csproj",
         "projectName": "MicroservicesRepository",
-        "projectPath": "D:\\a\\GS-MICRO-2\\MicroservicesRepository\\MicroservicesRepository.csproj",
+        "projectPath": "D:\\GS-MICRO-2\\MicroservicesRepository\\MicroservicesRepository.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\a\\GS-MICRO-2\\MicroservicesRepository\\obj\\",
+        "outputPath": "D:\\GS-MICRO-2\\MicroservicesRepository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\a\\GS-MICRO-2\\MicroservicesDomain\\MicroservicesDomain.csproj": {
-                "projectPath": "D:\\a\\GS-MICRO-2\\MicroservicesDomain\\MicroservicesDomain.csproj"
+              "D:\\GS-MICRO-2\\MicroservicesDomain\\MicroservicesDomain.csproj": {
+                "projectPath": "D:\\GS-MICRO-2\\MicroservicesDomain\\MicroservicesDomain.csproj"
               }
             }
           }
