@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\labsfiap\\source\\repos\\MicroservicesEnergia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80213D10-DAF0-4202-9563-E6C409187489}|MicroservicesEnergia\\MicroservicesEnergia.csproj|c:\\users\\labsfiap\\source\\repos\\microservicesenergia\\microservicesenergia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80213D10-DAF0-4202-9563-E6C409187489}|MicroservicesEnergia\\MicroservicesEnergia.csproj|solutionrelative:microservicesenergia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E03A59-FD66-454D-B5E6-BAD409C95183}|MicroservicesRepository\\MicroservicesRepository.csproj|c:\\users\\labsfiap\\source\\repos\\microservicesenergia\\microservicesrepository\\consumorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E03A59-FD66-454D-B5E6-BAD409C95183}|MicroservicesRepository\\MicroservicesRepository.csproj|solutionrelative:microservicesrepository\\consumorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsumoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\MicroservicesEnergia\\MicroservicesRepository\\ConsumoRepository.cs",
+              "RelativeDocumentMoniker": "MicroservicesRepository\\ConsumoRepository.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\MicroservicesEnergia\\MicroservicesRepository\\ConsumoRepository.cs",
+              "RelativeToolTip": "MicroservicesRepository\\ConsumoRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAApwAoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:32:25.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\source\\repos\\MicroservicesEnergia\\MicroservicesEnergia\\Program.cs",
+              "RelativeDocumentMoniker": "MicroservicesEnergia\\Program.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\source\\repos\\MicroservicesEnergia\\MicroservicesEnergia\\Program.cs",
+              "RelativeToolTip": "MicroservicesEnergia\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:26:12.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
